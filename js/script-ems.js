@@ -7,11 +7,11 @@ if (localStorage.getItem('employees') !== null) {
 } else {
     // CREATE AN ARRAY OF EMPLOYEES
     let arrEmployees = [
-        [43556344, 'Zak Ruvalcaba', 3244, 'zak@vectacor.com', 'Executive'],
-        [15158515, 'Sally Smith', 6635, 'sally@vectacor.com', 'Administrative'],
-        [84975156, 'Pedro Ramirez', 3036, 'pedro@vectacor.com', 'Sales'],
-        [13214546, 'Robin Banks', 2151, 'robin@vectacor.com', 'Marketing'],
-        [49784562, 'Sue Wedge', 5412, 'sue@vectacor.com', 'Quality Assurance']
+        [43556344, 'Valentin Edvin', 3244, 'valentin@org.com', 'Administrative'],
+        [15158515, 'Juliana Elisheva', 6635, 'juliana@org.com', 'Engineering'],
+        [84975156, 'Si-Woo Abeni', 3036, 'siwoo@org.com', 'Sales'],
+        [13214546, 'Serafin Joanna', 2151, 'serafin@org.com', 'Marketing'],
+        [49784562, 'Milena Elisabeti', 5412, 'milena@org.com', 'Quality Assurance']
     ];
 }
 
